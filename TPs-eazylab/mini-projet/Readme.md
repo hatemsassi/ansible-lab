@@ -1,0 +1,3 @@
+Vous avez reçu la demande d’une autre équipe qui souhaiterait utiliser votre playbook webapp, mais sous forme de rôle car sous cette forme ils pourront mieux variabiliser et adapter à leur situation.
+Leur objectif est que votre rôle possède un playbook tests afin de leur permettre de tester rapidement votre rôle et ainsi l’intégrer à leur process de déploiement, exactement comme le rôle wordpress 
+La dernière raison pour laquelle vous devez faire ce rôle est que votre entreprise souhaite mettre en place une galaxy privée pour stocker tous les rôles fait 
